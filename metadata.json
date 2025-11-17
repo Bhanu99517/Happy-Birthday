@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Number Location Tracker",
+  "description": "A visually engaging web application that simulates tracking the location of a mobile number for entertainment purposes. It features a futuristic, hacker-style interface with animated progress bars and log outputs.",
+  "requestFramePermissions": []
+}
